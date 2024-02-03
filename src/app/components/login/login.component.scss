@@ -1,0 +1,22 @@
+:host {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--dark-background);
+}
+
+.form__login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login__label {
+    position: relative;
+    right: 30px;
+}
+
