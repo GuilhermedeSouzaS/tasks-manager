@@ -1,0 +1,25 @@
+NOME DO PROJETO 
+Gerenciador de Tarefas - ToDo List
+
+CORES
+#6A041D 10% vermelho
+#1B6587 30% azul
+#D0CD94 60% bege
+
+Tema escuro
+#1F1F1F
+
+Quase branco
+#F1F1F1
+
+
+FUNCIONALIDADES
+- Cadastro de usuários
+- Autenticação de usuários
+- Gerenciamento de tarefas
+- Visualização e ordenação de tarefas
+- Notificação e lembretes
+- Filtros e pesquisas
+- Responsividade e interface do usuário
+- Segurança
+- Backend e persistência de dados

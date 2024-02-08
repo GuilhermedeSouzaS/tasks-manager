@@ -1,10 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 :root {
-    --dark-background: #1F1F1F;
+    // COLOR
+    --dark-color: #0F0F0F;
+    --light-color: #FEFEFE;
+    --primary-color: #D0CD94;
+    --second-color: #1B998B; 
+    // FONTS
+    --primary-font: 'Nunito';
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: var(--primary-font);
+    background-color: var(--dark-color);
 }
+
